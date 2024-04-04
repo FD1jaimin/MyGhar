@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "617529080485",
+    "firebase_url": "https://urbannest-a43be-default-rtdb.firebaseio.com",
+    "project_id": "urbannest-a43be",
+    "storage_bucket": "urbannest-a43be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617529080485:android:a586342289f631272e6b4c",
+        "android_client_info": {
+          "package_name": "com.example.urbannest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617529080485-dhn8lpo0nta4fd3rkmuqt2tjp8o2uvbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urbannest",
+            "certificate_hash": "a79f8e5c4addac515aedaa837e130b554b50c8b2"
+          }
+        },
+        {
+          "client_id": "617529080485-r903qeug3cbrplfov0o1if8h4s86hlbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urbannest",
+            "certificate_hash": "a392eb4676242ab74b466837d20e9a6608368bb3"
+          }
+        },
+        {
+          "client_id": "617529080485-a3nfs3lgu1c3icek7v9o3p5o92be553g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjY9G632nTNsIYa2uq_SUfDf-pT7S5fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617529080485-a3nfs3lgu1c3icek7v9o3p5o92be553g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617529080485-6vj7a5o7avnnpfhge35j7itbb3i95tbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.urbannests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617529080485:android:c1b79b0333bc1f8a2e6b4c",
+        "android_client_info": {
+          "package_name": "com.shelter.myghar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617529080485-87t881f36aqsup3fihib848niio7a2mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shelter.myghar",
+            "certificate_hash": "a392eb4676242ab74b466837d20e9a6608368bb3"
+          }
+        },
+        {
+          "client_id": "617529080485-9copacj9cehog2i9cn4of1bepeem5dev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shelter.myghar",
+            "certificate_hash": "a79f8e5c4addac515aedaa837e130b554b50c8b2"
+          }
+        },
+        {
+          "client_id": "617529080485-a3nfs3lgu1c3icek7v9o3p5o92be553g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjY9G632nTNsIYa2uq_SUfDf-pT7S5fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617529080485-a3nfs3lgu1c3icek7v9o3p5o92be553g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617529080485-6vj7a5o7avnnpfhge35j7itbb3i95tbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.urbannests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
